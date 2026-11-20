@@ -81,7 +81,3 @@ O notebook gera o arquivo `modelo_inadimplencia_xgb.joblib` durante a execução
 ├── .gitignore
 └── default_of_credit_cards_clients.ipynb
 ```
-
-## Autor
-
-NOME COMPLETO DO ALUNO, Fatec Praia Grande.
