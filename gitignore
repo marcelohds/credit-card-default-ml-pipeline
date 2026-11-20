@@ -1,0 +1,10 @@
+# Modelo gerado durante a execução do notebook
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
