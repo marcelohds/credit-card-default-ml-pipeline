@@ -2,8 +2,6 @@
 
 ## Descrição do projeto
 
-Trabalho semestral da disciplina de Inteligência Artificial.
-
 O projeto é um notebook Python que implementa uma **esteira (pipeline) de aprendizado de máquina completa**, da obtenção dos dados até a predição de um exemplar inédito. O problema é de **classificação binária**: prever se um cliente de cartão de crédito ficará **inadimplente** no mês seguinte (classe 1) ou **pagará em dia** (classe 0).
 
 - **Base de dados:** *Default of Credit Card Clients*, do UCI Machine Learning Repository (ID 350). São 30.000 clientes, 23 atributos explicativos e 1 atributo alvo. A base é baixada automaticamente pelo código, sem upload manual.
