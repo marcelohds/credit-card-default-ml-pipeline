@@ -1,12 +1,6 @@
 # Esteira de Aprendizado de Máquina: Previsão de Inadimplência de Cartão de Crédito
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/default_of_credit_cards_clients.ipynb)
-
-**Vídeo de apresentação (YouTube):** LINK_DO_VIDEO
-
 ## Descrição do projeto
-
-Trabalho semestral da disciplina de Inteligência Artificial (CST em Análise e Desenvolvimento de Sistemas, Fatec Praia Grande).
 
 O projeto é um notebook Python que implementa uma **esteira (pipeline) de aprendizado de máquina completa**, da obtenção dos dados até a predição de um exemplar inédito. O problema é de **classificação binária**: prever se um cliente de cartão de crédito ficará **inadimplente** no mês seguinte (classe 1) ou **pagará em dia** (classe 0).
 
